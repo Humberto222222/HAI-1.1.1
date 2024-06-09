@@ -7,7 +7,9 @@ Olá a todos, me chamo Humberto, conhecido no Discord como "op3n". Esse projeto,
 Usando a API Self-Hosted que é hospedado por nós!
 
 1.1: Crie um script na sua linguagem preferida mandando uma requisição POST para o haiapi.hai111.hsyst.com.br
+
 1.2: Segue abaixo um exemplo em python:
+
 ([example.py - Made by Humberto](https://github.com/Humberto222222/HAI-1.1.1/blob/main/example.py#L4))
 
 
