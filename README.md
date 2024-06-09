@@ -2,6 +2,10 @@
 
 Olá a todos, me chamo Humberto, conhecido no Discord como "op3n". Esse projeto, tem como objetivo permitir que você use uma IA, em qualquer dispositivo sem a necessidade de pagar.
 
+# Licensa
+
+Esse projeto é Closed-Source, estamos aprimorando o projeto para que possamos deixa-lo pronto para o público!
+
 # COMO USAR?
 
 Usando a API Self-Hosted que é hospedado por nós!
