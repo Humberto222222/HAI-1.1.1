@@ -20,3 +20,10 @@ Obrigado por ver este projeto e espero ter te ajudado a realizar sua aplicação
 # STATUS
 
 O status da api está: ***EM DEPLOY, TEMPO EXTIMADO PARA RETORNO: 5 horas***
+
+
+# Fale-Conosco!
+
+Gostou do projeto e quer ajudar a desenvolve-lo ou entrar em uma call comigo e falar sobre? Meu nick no discord é "op3n".
+
+Vlw flws e fui!
